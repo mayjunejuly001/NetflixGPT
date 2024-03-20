@@ -2,14 +2,15 @@
 
 - Create React App
 - Configured tailwind Css
+- Routing of App
+- Login / SignupForm
+- Form Validation
+- useRef Hook
 
 # Features
 
 -Login / Signup
--Signin signup page
 -redirect to browser page
--Form  
-
 -Browse(after authentication)
 -Header
 -Main movie
